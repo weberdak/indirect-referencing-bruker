@@ -8,7 +8,7 @@
 
 4. Process the 1D spectrum again with the new xCAR value. DSS should fall exactly on 0.000 ppm.
 
-5. Copy this script in the directory of the 2D/3D spectrum and run by:
+5. Copy the brukref.sh script in the directory of the 2D/3D spectrum and run by:
 
 		bash brukref.sh <acqus file> <xCAR>
 	
